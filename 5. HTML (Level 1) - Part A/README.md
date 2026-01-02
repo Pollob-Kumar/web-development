@@ -13,12 +13,18 @@ Hands-on practice is provided through HTML file structure, boilerplate code, and
 
 
 ## Topics Covered:
-1. What is HTML
-2. Basic HTML Structure
-3. Head and Body Tags
+1. Introduction to HTML
+2. HTML Elements & Tags
+3. Hello World
+4. Paragraph Element
+5. Heading Elements
+6. Practice Qs
+7. Boilerplate Code
 
 ### 📄 File:
 - `helloworldV3.html`
+- `PracticeQs1V6.html`
+- `BoilerplateCodeV7.html`
 
 
 ## 🎯 Learning Outcome
