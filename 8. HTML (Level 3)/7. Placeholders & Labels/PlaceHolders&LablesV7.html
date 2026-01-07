@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placeholder & Label</title>
+</head>
+<body>
+    
+    <form action="/action">
+
+        <!--Placeholder-->
+        <div>
+        text
+        <input type="text" placeholder="Enter your text" />
+        </div>
+
+        <!--Singel tag (normal system)-->
+        <div>
+        <label>
+            Text
+            <input type="text" placeholder="Enter text"/>
+        </label>
+        </div>
+
+        <!--Classical Approach (best system)  note: for=id same hote hobe-->
+        <div>
+        <label for="idname">Text</label>
+        <input type="text" id="idname" placeholder="Enter text"/>
+        </div>
+
+
+    </form>
+
+</body>
+</html>
