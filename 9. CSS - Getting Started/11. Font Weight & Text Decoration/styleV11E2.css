@@ -1,0 +1,21 @@
+/*text er nije line diya*/
+h1 {
+    text-decoration: underline;
+}
+/* text er majhe cross diya*/
+h2 {
+    text-decoration: line-through;
+}
+/*text er opore line diya*/
+p {
+    text-decoration: overline;
+}
+/*line er color set*/
+h3 {
+    text-decoration: red line-through;
+}
+
+/*underline remove kora*/
+a {
+    text-decoration: none;
+}

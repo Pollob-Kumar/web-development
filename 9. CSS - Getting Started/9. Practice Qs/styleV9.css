@@ -1,0 +1,26 @@
+
+/* ans: 1 *?
+
+/* rgb(225, 255, 225) holo "white" color*/
+h1 {
+    color: rgb(255, 255, 255);
+
+    background-color: black;
+}
+
+/* ans: 2 */
+p {
+    color: rgb(255, 255, 00);
+}
+h2 {
+    color: rgb(00, 00, 255);
+}
+
+/* ans: 3 */
+h3 {
+
+    color: #ffff00;
+}
+h4 {
+    color: #0000ff;
+}
