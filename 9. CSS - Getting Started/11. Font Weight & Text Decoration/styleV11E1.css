@@ -1,0 +1,11 @@
+p {
+    font-weight: 700;  /* font: bold ba 700 */
+}
+
+h1 {
+    font-weight: 400;  /* font: normal ba 400*/
+}
+
+h2 {
+    font-weight: lighter; /* "bolder/lighter" holo parent*/
+}
