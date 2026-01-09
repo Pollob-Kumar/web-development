@@ -1,0 +1,12 @@
+h1 {
+    text-align: right;
+    border: solid; /* tatal border show korbe */
+}
+
+/* dekhe mone hobe text Center a ache kintu na, eta right side ei ache*/
+/*eta parent element hisabe right side a ache. Sob somoy parent element er depend kore kaj hobe, not Full document or page*/
+h2 {
+    text-align: right;
+    border: solid; /* tatal border show korbe */
+    width: 50%;
+}
